@@ -9,4 +9,4 @@ env = { AWS_ACCESS_KEY_ID = "${AWS_ACCESS_KEY_ID}", AWS_SECRET_ACCESS_KEY = "${A
 
 [config]
 task_category = "crafting"
-# max_steps = 1200
+# max_steps = 1200  
