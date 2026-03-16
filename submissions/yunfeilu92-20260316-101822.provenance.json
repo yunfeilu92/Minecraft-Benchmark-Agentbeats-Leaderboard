@@ -1,0 +1,8 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/kwsmoobang/mcu-agentbeats@sha256:c6665273fc43d767bdc526c076ad791aeb050f9071e0c175731cd1a75166e2d8",
+    "agent": "ghcr.io/yunfeilu92/minecraft-purple-agent@sha256:39f53b967b0813178413f1f92045c3043b6a5a0b6813844a486c030d2e72f7be",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-03-16T10:18:22Z"
+}
