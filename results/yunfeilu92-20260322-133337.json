@@ -1,0 +1,110 @@
+{
+  "participants": {
+    "agent": "019cf4a0-2179-7791-a6da-28a0b0759acc"
+  },
+  "results": [
+    {
+      "task_category": "find",
+      "num_tasks": 9,
+      "total_max_score": 90.0,
+      "total_score": 18.5,
+      "avg_action_control": 1.78,
+      "avg_error_recognition_and_correction": 1.0,
+      "avg_creative_attempts": 0.89,
+      "avg_task_completion_efficiency": 1.11,
+      "avg_material_selection_and_usage": 1.44,
+      "task_metrics": {
+        "find_bedrock": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 1.0
+        },
+        "find_melon": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 1.0,
+          "creative_attempts": 1.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 1.0
+        },
+        "find_forest": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 6.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 2.0,
+          "creative_attempts": 2.0,
+          "task_completion_efficiency": 2.0,
+          "material_selection_and_usage": 1.0
+        },
+        "find_item_frame": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 1.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 1.0
+        },
+        "find_blue_bed": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 1.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "find_sand": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 0.0,
+          "creative_attempts": 0.0,
+          "task_completion_efficiency": 0.0,
+          "material_selection_and_usage": 0.0
+        },
+        "find_lava": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 5.0,
+          "action_control": 2.0,
+          "error_recognition_and_correction": 2.0,
+          "creative_attempts": 1.0,
+          "task_completion_efficiency": 3.0,
+          "material_selection_and_usage": 1.0
+        },
+        "find_village": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.0,
+          "action_control": 1.0,
+          "error_recognition_and_correction": 1.0,
+          "creative_attempts": 1.0,
+          "task_completion_efficiency": 1.0,
+          "material_selection_and_usage": 1.0
+        },
+        "find_diamond": {
+          "max_score": 10.0,
+          "sim_score": 0.0,
+          "score": 1.5,
+          "action_control": 6.0,
+          "error_recognition_and_correction": 2.0,
+          "creative_attempts": 2.0,
+          "task_completion_efficiency": 2.0,
+          "material_selection_and_usage": 7.0
+        }
+      }
+    }
+  ]
+}
