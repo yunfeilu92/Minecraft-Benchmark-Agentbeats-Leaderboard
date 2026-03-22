@@ -1,0 +1,13 @@
+[green_agent]
+agentbeats_id = "019bad79-fd8b-7cc0-9b0f-36b91fa634d7"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", OPENAI_BASE_URL = "${OPENAI_BASE_URL}", LOG_LEVEL = "INFO" }
+
+[[participants]]
+agentbeats_id = "019cf4a0-2179-7791-a6da-28a0b0759acc"
+name = "agent"
+env = { AWS_ACCESS_KEY_ID = "${AWS_ACCESS_KEY_ID}", AWS_SECRET_ACCESS_KEY = "${AWS_SECRET_ACCESS_KEY}", AWS_REGION = "us-east-1", LLM_BACKEND = "bedrock", LLM_MODEL = "us.anthropic.claude-haiku-4-5-20251001-v1:0", LLM_CALL_INTERVAL = "1" }
+
+[config]
+task_category = "combat"
+# max_steps = 1200
+# re-trigger 1774167451
