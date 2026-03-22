@@ -8,5 +8,5 @@ name = "agent"
 env = { AWS_ACCESS_KEY_ID = "${AWS_ACCESS_KEY_ID}", AWS_SECRET_ACCESS_KEY = "${AWS_SECRET_ACCESS_KEY}", AWS_REGION = "us-east-1", LLM_BACKEND = "bedrock", LLM_MODEL = "us.anthropic.claude-haiku-4-5-20251001-v1:0", LLM_CALL_INTERVAL = "1" }
 
 [config]
-task_category = "motion"
+task_category = "explore"
 # max_steps = 1200
